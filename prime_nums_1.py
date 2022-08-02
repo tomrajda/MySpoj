@@ -15,4 +15,5 @@ for _ in range(1, iterations+1):
         print("NIE")
     else:
         print("TAK")
-            
+
+#https://pl.spoj.com/problems/PRIME_T/         

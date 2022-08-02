@@ -11,3 +11,5 @@ for _ in range(1, iterations+1):
         print(int(str(number**3)[-1]))    
     elif int(nums[1]) % 4 == 0:
         print(int(str(number**4)[-1]))
+
+#https://pl.spoj.com/problems/PA05_POT/

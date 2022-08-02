@@ -10,3 +10,5 @@ for _ in range(1, iterations+1):
         sum += int(number)
     res = sum / len(numbers)
     print(round(res))
+
+#https://pl.spoj.com/problems/RNO_DOD/

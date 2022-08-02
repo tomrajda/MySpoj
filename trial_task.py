@@ -6,3 +6,5 @@ for _ in range(2):
     else:
         break
 print(sum)
+
+#https://pl.spoj.com/problems/PTEST/
